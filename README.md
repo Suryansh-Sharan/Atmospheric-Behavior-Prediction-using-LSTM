@@ -12,8 +12,6 @@ This project aims to analyze variations in temperature, pressure, and altitude t
 - [Model Validation](#model-validation)
 - [Feature Engineering](#feature-engineering)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
