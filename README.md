@@ -1,6 +1,6 @@
 # Atmospheric Behavior Prediction using LSTM
 
-This project aims to analyze variations in temperature, pressure, and humidity to predict atmospheric behavior using historical CanSat telemetry data. The model used is a Long Short-Term Memory (LSTM) network, which is well-suited for time-series forecasting.
+This project aims to analyze variations in temperature, pressure, and altitude to predict atmospheric behavior using historical CanSat telemetry data. The model used is a Long Short-Term Memory (LSTM) network, which is well-suited for time-series forecasting.
 
 ## Table of Contents
 
